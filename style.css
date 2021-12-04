@@ -1,0 +1,15 @@
+
+
+        #tams{
+            font-size: 60px;
+            font-style: italic;
+            color: aqua;
+            
+        }
+        .im{
+            border: 5px solid purple;
+            border-radius: 25px;
+            margin-bottom: 10px;
+            padding: 60px;
+            
+        }
